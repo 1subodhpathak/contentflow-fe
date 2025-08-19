@@ -143,7 +143,7 @@ export function DashboardSidebar() {
             <Button
               variant="outline"
               size="sm"
-              className="w-full mt-3 border-dashed border-border text-muted-foreground hover:border-cyan-300 hover:text-cyan-600 bg-transparent"
+              className="w-full cursor-pointer mt-3 border-dashed border-border text-muted-foreground hover:border-cyan-300 hover:text-cyan-600 bg-transparent"
             >
               <Plus className="w-4 h-4 mr-2" />
               Connect New Platform
